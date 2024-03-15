@@ -1,0 +1,338 @@
+[
+	{
+		"name": "[Reimu] Eika - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Stage 1 - Full Berserk Roaring",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"]
+	},
+	{
+		"name": "[Reimu] Eika Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Urumi - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Stage 2 - Full Berserk Roaring",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Urumi Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Kutaka - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Stage 3 - Full Berserk Roaring",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Kutaka Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Yachie - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Stage 4 - Full Berserk Roaring",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Yachie Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Mayumi - MidBoss 1",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Stage 5 - Full Berserk Roaring",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Mayumi Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Mayumi - MidBoss 2",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Stage 6 - Full Berserk Roaring",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Keiki Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Marisa] Eika - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Stage 1 - Full Berserk Roaring",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"]
+	},
+	{
+		"name": "[Marisa] Eika Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Urumi - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Stage 2 - Full Berserk Roaring",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Urumi Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Kutaka - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Stage 3 - Full Berserk Roaring",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Kutaka Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Yachie - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Stage 4 - Full Berserk Roaring",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Yachie Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Mayumi - MidBoss 1",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Stage 5 - Full Berserk Roaring",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Mayumi Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Mayumi - MidBoss 2",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Stage 6 - Full Berserk Roaring",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Keiki Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Youmu] Eika - MidBoss",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Youmu] Stage 1 - Full Berserk Roaring",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 1"]
+	},
+	{
+		"name": "[Youmu] Eika Defeated",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Youmu] Urumi - MidBoss",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Youmu] Stage 2 - Full Berserk Roaring",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Youmu] Urumi Defeated",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Youmu] Kutaka - MidBoss",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Youmu] Stage 3 - Full Berserk Roaring",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Youmu] Kutaka Defeated",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Youmu] Yachie - MidBoss",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Youmu] Stage 4 - Full Berserk Roaring",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Youmu] Yachie Defeated",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Youmu] Mayumi - MidBoss 1",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Youmu] Stage 5 - Full Berserk Roaring",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Youmu] Mayumi Defeated",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Youmu] Mayumi - MidBoss 2",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Youmu] Stage 6 - Full Berserk Roaring",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Youmu] Keiki Defeated",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:3|"
+	}
+]

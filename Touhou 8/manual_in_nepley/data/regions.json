@@ -1,0 +1,63 @@
+{
+	"Border-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu| OR |Yukari| OR |Illusionary Barrier Team|"
+	},
+	"Border-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu| OR |Yukari| OR |Illusionary Barrier Team|"
+	},
+	"Border-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu| OR |Yukari| OR |Illusionary Barrier Team|"
+	},
+	"Magic-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa| OR |Alice| OR |Aria of Forbidden Magic Team|"
+	},
+	"Magic-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa| OR |Alice| OR |Aria of Forbidden Magic Team|"
+	},
+	"Magic-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa| OR |Alice| OR |Aria of Forbidden Magic Team|"
+	},
+	"Scarlet-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya| OR |Remilia| OR |Visionary Scarlet Devil Team|"
+	},
+	"Scarlet-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya| OR |Remilia| OR |Visionary Scarlet Devil Team|"
+	},
+	"Scarlet-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya| OR |Remilia| OR |Visionary Scarlet Devil Team|"
+	}
+	,
+	"Nether-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Youmu| OR |Yuyuko| OR |Netherworld Dwellers's Team|"
+	},
+	"Nether-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Youmu| OR |Yuyuko| OR |Netherworld Dwellers's Team|"
+	},
+	"Nether-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Youmu| OR |Yuyuko| OR |Netherworld Dwellers's Team|"
+	}
+}

@@ -1,0 +1,98 @@
+[
+	{
+		"count":8,
+		"name": "Progressive Life",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":8,
+		"name": "Progressive Bomb",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":3,
+		"name": "Lower Difficulty",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":5,
+		"name": "25 Power Point",
+		"category": ["Progression Items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Reimu A - Spirit Sign",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reimu B - Dream Sign",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa A - Magic Sign",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa B - Love Sign",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sakuya A - Illusion Sign",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sakuya B - Time Sign",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 2",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 3",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 5",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 6",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Ending",
+		"category": ["Ending"],
+		"progression": true
+	}
+]

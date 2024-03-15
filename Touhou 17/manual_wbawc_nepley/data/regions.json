@@ -1,0 +1,49 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu - Wolf| OR |Reimu - Eagle| OR |Reimu - Otter|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu - Wolf| OR |Reimu - Eagle| OR |Reimu - Otter|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu - Wolf| OR |Reimu - Eagle| OR |Reimu - Otter|"
+	},
+
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa - Wolf| OR |Marisa - Eagle| OR |Marisa - Otter|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa - Wolf| OR |Marisa - Eagle| OR |Marisa - Otter|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa - Wolf| OR |Marisa - Eagle| OR |Marisa - Otter|"
+	},
+
+	"Youmu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Youmu - Wolf| OR |Youmu - Eagle| OR |Youmu - Otter|"
+	},
+	"Youmu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Youmu - Wolf| OR |Youmu - Eagle| OR |Youmu - Otter|"
+	},
+	"Youmu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Youmu - Wolf| OR |Youmu - Eagle| OR |Youmu - Otter|"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Homing Type| OR |Reimu B - Forward Focus Type| OR |Reimu C - Sealing Type|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Homing Type| OR |Reimu B - Forward Focus Type| OR |Reimu C - Sealing Type|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Homing Type| OR |Reimu B - Forward Focus Type| OR |Reimu C - Sealing Type|"
+	},
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - High Power Type| OR |Marisa B - Piercing Type| OR |Marisa C - Magician Type|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - High Power Type| OR |Marisa B - Piercing Type| OR |Marisa C - Magician Type|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - High Power Type| OR |Marisa B - Piercing Type| OR |Marisa C - Magician Type|"
+	}
+}

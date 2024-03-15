@@ -1,0 +1,284 @@
+[
+	{
+		"name": "[Reimu] Divine Spirit Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Yuyuko Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Kyouko - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Kyouko Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Kogasa Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Yoshika Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Seiga - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Seiga Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Tojiko - MidBoss",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Futo Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Miko Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Marisa] Divine Spirit Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Yuyuko Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Kyouko - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Kyouko Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Kogasa Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Yoshika Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Seiga - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Seiga Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Tojiko - MidBoss",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Futo Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Miko Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Sanae] Divine Spirit Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Yuyuko Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Kyouko - MidBoss",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Kyouko Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Kogasa Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Yoshika Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Seiga - MidBoss",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Seiga Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Tojiko - MidBoss",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Futo Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Miko Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[You] Divine Spirit Defeated",
+		"region": "You-Early-Game",
+		"category": ["You - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[You] Yuyuko Defeated",
+		"region": "You-Early-Game",
+		"category": ["You - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[You] Kyouko - MidBoss",
+		"region": "You-Early-Game",
+		"category": ["You - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[You] Kyouko Defeated",
+		"region": "You-Early-Game",
+		"category": ["You - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[You] Kogasa Defeated",
+		"region": "You-Mid-Game",
+		"category": ["You - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[You] Yoshika Defeated",
+		"region": "You-Mid-Game",
+		"category": ["You - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[You] Seiga - MidBoss",
+		"region": "You-Mid-Game",
+		"category": ["You - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[You] Seiga Defeated",
+		"region": "You-Mid-Game",
+		"category": ["You - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[You] Tojiko - MidBoss",
+		"region": "You-End-Game",
+		"category": ["You - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[You] Futo Defeated",
+		"region": "You-End-Game",
+		"category": ["You - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[You] Miko Defeated",
+		"region": "You-End-Game",
+		"category": ["You - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:4|"
+	}
+]

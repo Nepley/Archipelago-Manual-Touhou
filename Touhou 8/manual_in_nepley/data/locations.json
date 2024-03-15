@@ -1,0 +1,433 @@
+[
+	{
+		"name": "[Border Team] Wriggle - MidBoss",
+		"region": "Border-Early-Game",
+		"category": ["Border Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Border Team] Wriggle Defeated",
+		"region": "Border-Early-Game",
+		"category": ["Border Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Border Team] Stage 1 - Time",
+		"region": "Border-Early-Game",
+		"category": ["Border Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Border Team] Mystia - MidBoss",
+		"region": "Border-Early-Game",
+		"category": ["Border Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Border Team] Mystia Defeated",
+		"region": "Border-Early-Game",
+		"category": ["Border Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Border Team] Stage 2 - Time",
+		"region": "Border-Early-Game",
+		"category": ["Border Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Border Team] Keine - MidBoss",
+		"region": "Border-Mid-Game",
+		"category": ["Border Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Border Team] Keine Defeated",
+		"region": "Border-Mid-Game",
+		"category": ["Border Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Border Team] Stage 3 - Time",
+		"region": "Border-Mid-Game",
+		"category": ["Border Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Border Team] Reimu Defeated",
+		"region": "Border-Mid-Game",
+		"category": ["Border Team - Stage 4"],
+		"requires": "|Stage 4A|"
+	},
+	{
+		"name": "[Border Team] Marisa Defeated",
+		"region": "Border-Mid-Game",
+		"category": ["Border Team - Stage 4"],
+		"requires": "|Stage 4B|"
+	},
+	{
+		"name": "[Border Team] Stage 4 - Time",
+		"region": "Border-Mid-Game",
+		"category": ["Border Team - Stage 4"],
+		"requires": "|Stage 4B| OR |Stage 4A|"
+	},
+	{
+		"name": "[Border Team] Tewi Defeated",
+		"region": "Border-End-Game",
+		"category": ["Border Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Border Team] Reisen Defeated",
+		"region": "Border-End-Game",
+		"category": ["Border Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Border Team] Stage 5 - Time",
+		"region": "Border-End-Game",
+		"category": ["Border Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Border Team] Eirin Defeated",
+		"region": "Border-End-Game",
+		"category": ["Border Team - Stage 6"],
+		"requires": "|Stage 6A|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Border Team] Kaguya Defeated",
+		"region": "Border-End-Game",
+		"category": ["Border Team - Stage 6"],
+		"requires": "|Stage 6B|",
+		"place_item": ["Ending"]
+	},
+
+
+
+	{
+		"name": "[Magic Team] Wriggle - MidBoss",
+		"region": "Magic-Early-Game",
+		"category": ["Magic Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Magic Team] Wriggle Defeated",
+		"region": "Magic-Early-Game",
+		"category": ["Magic Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Magic Team] Stage 1 - Time",
+		"region": "Magic-Early-Game",
+		"category": ["Magic Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Magic Team] Mystia - MidBoss",
+		"region": "Magic-Early-Game",
+		"category": ["Magic Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Magic Team] Mystia Defeated",
+		"region": "Magic-Early-Game",
+		"category": ["Magic Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Magic Team] Stage 2 - Time",
+		"region": "Magic-Early-Game",
+		"category": ["Magic Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Magic Team] Keine - MidBoss",
+		"region": "Magic-Mid-Game",
+		"category": ["Magic Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Magic Team] Keine Defeated",
+		"region": "Magic-Mid-Game",
+		"category": ["Magic Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Magic Team] Stage 3 - Time",
+		"region": "Magic-Mid-Game",
+		"category": ["Magic Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Magic Team] Reimu Defeated",
+		"region": "Magic-Mid-Game",
+		"category": ["Magic Team - Stage 4"],
+		"requires": "|Stage 4A|"
+	},
+	{
+		"name": "[Magic Team] Marisa Defeated",
+		"region": "Magic-Mid-Game",
+		"category": ["Magic Team - Stage 4"],
+		"requires": "|Stage 4B|"
+	},
+	{
+		"name": "[Magic Team] Stage 4 - Time",
+		"region": "Magic-Mid-Game",
+		"category": ["Magic Team - Stage 4"],
+		"requires": "|Stage 4B| OR |Stage 4A|"
+	},
+	{
+		"name": "[Magic Team] Tewi Defeated",
+		"region": "Magic-End-Game",
+		"category": ["Magic Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Magic Team] Reisen Defeated",
+		"region": "Magic-End-Game",
+		"category": ["Magic Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Magic Team] Stage 5 - Time",
+		"region": "Magic-End-Game",
+		"category": ["Magic Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Magic Team] Eirin Defeated",
+		"region": "Magic-End-Game",
+		"category": ["Magic Team - Stage 6"],
+		"requires": "|Stage 6A|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Magic Team] Kaguya Defeated",
+		"region": "Magic-End-Game",
+		"category": ["Magic Team - Stage 6"],
+		"requires": "|Stage 6B|",
+		"place_item": ["Ending"]
+	},
+
+
+
+	{
+		"name": "[Scarlet Team] Wriggle - MidBoss",
+		"region": "Scarlet-Early-Game",
+		"category": ["Scarlet Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Scarlet Team] Wriggle Defeated",
+		"region": "Scarlet-Early-Game",
+		"category": ["Scarlet Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Scarlet Team] Stage 1 - Time",
+		"region": "Scarlet-Early-Game",
+		"category": ["Scarlet Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Scarlet Team] Mystia - MidBoss",
+		"region": "Scarlet-Early-Game",
+		"category": ["Scarlet Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Scarlet Team] Mystia Defeated",
+		"region": "Scarlet-Early-Game",
+		"category": ["Scarlet Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Scarlet Team] Stage 2 - Time",
+		"region": "Scarlet-Early-Game",
+		"category": ["Scarlet Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Scarlet Team] Keine - MidBoss",
+		"region": "Scarlet-Mid-Game",
+		"category": ["Scarlet Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Scarlet Team] Keine Defeated",
+		"region": "Scarlet-Mid-Game",
+		"category": ["Scarlet Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Scarlet Team] Stage 3 - Time",
+		"region": "Scarlet-Mid-Game",
+		"category": ["Scarlet Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Scarlet Team] Reimu Defeated",
+		"region": "Scarlet-Mid-Game",
+		"category": ["Scarlet Team - Stage 4"],
+		"requires": "|Stage 4A|"
+	},
+	{
+		"name": "[Scarlet Team] Marisa Defeated",
+		"region": "Scarlet-Mid-Game",
+		"category": ["Scarlet Team - Stage 4"],
+		"requires": "|Stage 4B|"
+	},
+	{
+		"name": "[Scarlet Team] Stage 4 - Time",
+		"region": "Scarlet-Mid-Game",
+		"category": ["Scarlet Team - Stage 4"],
+		"requires": "|Stage 4B| OR |Stage 4A|"
+	},
+	{
+		"name": "[Scarlet Team] Tewi Defeated",
+		"region": "Scarlet-End-Game",
+		"category": ["Scarlet Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Scarlet Team] Reisen Defeated",
+		"region": "Scarlet-End-Game",
+		"category": ["Scarlet Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Scarlet Team] Stage 5 - Time",
+		"region": "Scarlet-End-Game",
+		"category": ["Scarlet Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Scarlet Team] Eirin Defeated",
+		"region": "Scarlet-End-Game",
+		"category": ["Scarlet Team - Stage 6"],
+		"requires": "|Stage 6A|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Scarlet Team] Kaguya Defeated",
+		"region": "Scarlet-End-Game",
+		"category": ["Scarlet Team - Stage 6"],
+		"requires": "|Stage 6B|",
+		"place_item": ["Ending"]
+	},
+
+
+
+	{
+		"name": "[Nether Team] Wriggle - MidBoss",
+		"region": "Nether-Early-Game",
+		"category": ["Nether Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Nether Team] Wriggle Defeated",
+		"region": "Nether-Early-Game",
+		"category": ["Nether Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Nether Team] Stage 1 - Time",
+		"region": "Nether-Early-Game",
+		"category": ["Nether Team - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Nether Team] Mystia - MidBoss",
+		"region": "Nether-Early-Game",
+		"category": ["Nether Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Nether Team] Mystia Defeated",
+		"region": "Nether-Early-Game",
+		"category": ["Nether Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Nether Team] Stage 2 - Time",
+		"region": "Nether-Early-Game",
+		"category": ["Nether Team - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Nether Team] Keine - MidBoss",
+		"region": "Nether-Mid-Game",
+		"category": ["Nether Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Nether Team] Keine Defeated",
+		"region": "Nether-Mid-Game",
+		"category": ["Nether Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Nether Team] Stage 3 - Time",
+		"region": "Nether-Mid-Game",
+		"category": ["Nether Team - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Nether Team] Reimu Defeated",
+		"region": "Nether-Mid-Game",
+		"category": ["Nether Team - Stage 4"],
+		"requires": "|Stage 4A|"
+	},
+	{
+		"name": "[Nether Team] Marisa Defeated",
+		"region": "Nether-Mid-Game",
+		"category": ["Nether Team - Stage 4"],
+		"requires": "|Stage 4B|"
+	},
+	{
+		"name": "[Nether Team] Stage 4 - Time",
+		"region": "Nether-Mid-Game",
+		"category": ["Nether Team - Stage 4"],
+		"requires": "|Stage 4B| OR |Stage 4A|"
+	},
+	{
+		"name": "[Nether Team] Tewi Defeated",
+		"region": "Nether-End-Game",
+		"category": ["Nether Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Nether Team] Reisen Defeated",
+		"region": "Nether-End-Game",
+		"category": ["Nether Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Nether Team] Stage 5 - Time",
+		"region": "Nether-End-Game",
+		"category": ["Nether Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Nether Team] Eirin Defeated",
+		"region": "Nether-End-Game",
+		"category": ["Nether Team - Stage 6"],
+		"requires": "|Stage 6A|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Nether Team] Kaguya Defeated",
+		"region": "Nether-End-Game",
+		"category": ["Nether Team - Stage 6"],
+		"requires": "|Stage 6B|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:8|"
+	}
+]

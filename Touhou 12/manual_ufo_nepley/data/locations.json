@@ -1,0 +1,341 @@
+[
+	{
+		"name": "[Reimu] Nazrin - MidBoss 1",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Nazrin Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Stage 1 - UFO Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Kogasa - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Kogasa Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Stage 2 - UFO Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Ichirin - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Ichirin Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Stage 3 - UFO Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Nue - MidBoss 1",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Murasa Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Stage 4 - UFO Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Nazrin - MidBoss 2",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Shou Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Stage 5 - UFO Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Nue - MidBoss 2",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Byakuren Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Reimu] Stage 6 - UFO Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+
+
+	{
+		"name": "[Marisa] Nazrin - MidBoss 1",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Nazrin Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Stage 1 - UFO Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Kogasa - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Kogasa Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Stage 2 - UFO Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Ichirin - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Ichirin Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Stage 3 - UFO Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Nue - MidBoss 1",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Murasa Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Stage 4 - UFO Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Nazrin - MidBoss 2",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Shou Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Stage 5 - UFO Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Nue - MidBoss 2",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Byakuren Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Marisa] Stage 6 - UFO Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+
+
+	{
+		"name": "[Sanae] Nazrin - MidBoss 1",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Nazrin Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Stage 1 - UFO Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Kogasa - MidBoss",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Kogasa Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Stage 2 - UFO Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Ichirin - MidBoss",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Ichirin Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Stage 3 - UFO Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Nue - MidBoss 1",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Murasa Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Stage 4 - UFO Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Nazrin - MidBoss 2",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Shou Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Stage 5 - UFO Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Nue - MidBoss 2",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sanae] Byakuren Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Sanae] Stage 6 - UFO Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:3|"
+	}
+]

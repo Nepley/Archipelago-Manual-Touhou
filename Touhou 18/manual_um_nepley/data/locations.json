@@ -1,0 +1,594 @@
+[
+	{
+		"name": "[Reimu] Mike - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Mike Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Takane - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Takane Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Sannyo - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Sannyo Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Orb - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Misumaru Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Tsukasa - MidBoss 1",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Megumu Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Tsukasa - MidBoss 2",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Chimata Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Marisa] Mike - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Mike Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Takane - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Takane Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Sannyo - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Sannyo Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Orb - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Misumaru Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Tsukasa - MidBoss 1",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Megumu Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Tsukasa - MidBoss 2",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Chimata Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Sanae] Mike - MidBoss",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Mike Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Takane - MidBoss",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Takane Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Sannyo - MidBoss",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Sannyo Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Orb - MidBoss",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Misumaru Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Tsukasa - MidBoss 1",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Megumu Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Tsukasa - MidBoss 2",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sanae] Chimata Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Sakuya] Mike - MidBoss",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sakuya] Mike Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sakuya] Takane - MidBoss",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Takane Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Sannyo - MidBoss",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Sannyo Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Orb - MidBoss",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Misumaru Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Tsukasa - MidBoss 1",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Megumu Defeated",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Tsukasa - MidBoss 2",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sakuya] Chimata Defeated",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "Shop - Stage 1",
+		"region": "Shop-Early-Game",
+		"category": ["Shop"],
+		"place_item_category": ["Shop Access"]
+	},
+	{
+		"name": "Shop - Stage 2",
+		"region": "Shop-Early-Game",
+		"category": ["Shop"],
+		"requires": "|Stage 2|",
+		"place_item_category": ["Shop Access"]
+	},
+	{
+		"name": "Shop - Stage 3",
+		"region": "Shop-Mid-Game",
+		"category": ["Shop"],
+		"requires": "|Stage 3|",
+		"place_item_category": ["Shop Access"]
+	},
+	{
+		"name": "Shop - Stage 4",
+		"region": "Shop-Mid-Game",
+		"category": ["Shop"],
+		"requires": "|Stage 4|",
+		"place_item_category": ["Shop Access"]
+	},
+	{
+		"name": "Shop - Stage 5",
+		"region": "Shop-End-Game",
+		"category": ["Shop"],
+		"requires": "|Stage 5|",
+		"place_item_category": ["Shop Access"]
+	},
+
+
+	{
+		"name": "Shop A - Item 1 (50)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 2 (80)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 3 (90)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 4 (100)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 5 (120)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 6 (150)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 7 (200)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+	{
+		"name": "Shop A - Item 8 (220)",
+		"region": "Shop-Item",
+		"category": ["Shop A"],
+		"requires": "|Shop A|"
+	},
+
+
+	{
+		"name": "Shop B - Item 1 (100)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 2 (120)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 3 (120)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 4 (120)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 5 (120)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 6 (150)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 7 (150)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+	{
+		"name": "Shop B - Item 8 (200)",
+		"region": "Shop-Item",
+		"category": ["Shop B"],
+		"requires": "|Shop B|"
+	},
+
+
+	{
+		"name": "Shop C - Item 1 (50)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 2 (80)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 3 (80)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 4 (100)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 5 (150)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 6 (200)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 7 (300)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+	{
+		"name": "Shop C - Item 8 (400)",
+		"region": "Shop-Item",
+		"category": ["Shop C"],
+		"requires": "|Shop C|"
+	},
+
+
+	{
+		"name": "Shop D - Item 1 (90)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 2 (100)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 3 (100)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 4 (150)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 5 (250)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 6 (300)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 7 (400)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+	{
+		"name": "Shop D - Item 8 (450)",
+		"region": "Shop-Item",
+		"category": ["Shop D"],
+		"requires": "|Shop D|"
+	},
+
+
+	{
+		"name": "Shop E - Item 1 (50)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 2 (120)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 3 (225)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 4 (240)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 5 (250)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 6 (320)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 7 (350)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+	{
+		"name": "Shop E - Item 8 (400)",
+		"region": "Shop-Item",
+		"category": ["Shop E"],
+		"requires": "|Shop E|"
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:4|"
+	}
+]

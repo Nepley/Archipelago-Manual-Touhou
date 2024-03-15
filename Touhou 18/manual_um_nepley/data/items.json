@@ -1,0 +1,400 @@
+[
+	{
+		"count":8,
+		"name": "Progressive Life",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":8,
+		"name": "Progressive Bomb",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":3,
+		"name": "Lower Difficulty",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":4,
+		"name": "1 Power Point",
+		"category": ["Progression Items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Reimu",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sanae",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sakuya",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 2",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 3",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 5",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 6",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count": 4,
+		"name": "Ending",
+		"category": ["Ending"],
+		"progression": true
+	},
+
+	{
+		"count": 1,
+		"name": "Shop A",
+		"category": ["Shop Access"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Shop B",
+		"category": ["Shop Access"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Shop C",
+		"category": ["Shop Access"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Shop D",
+		"category": ["Shop Access"],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Shop E",
+		"category": ["Shop Access"],
+		"progression": true
+	},
+
+	{
+		"count": 1,
+		"name": "Yin-Yang Orb",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Yin-Yang Orb (Needle)",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mini-Hakkero",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mini-Hakkero (Missile)",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Maid Knife",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Maid Knife (Ricochet)",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Safe Return Amulet",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Shed Snakeskin Amulet",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Half-Half Ghost",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Shanghai Doll",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ice Fairy",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Back Door",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Annoying UFO",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ancient Magatama",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Miser's Advice",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Offerings to a Sacred Mountain",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Death Avoidance Elixir",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Lucky Rabbit's Foot",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Law of the Survival of the Fittest",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Sutra of Dharmatic Power",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Pebble Hat",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Bursting Red Frog",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gale Geta",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Idol Defense Corps",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Princess Kaguya's Secret Stash",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Reliable Tanuki Apprentice",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Danmaku Ghost",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Kiketsu Matriarch's Threat",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Money Is The Best Lawyer In Hell",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Physical Enhancement Jizo",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spell Before The Fall",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Lucky Cat with Good Business Skills",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Yamawaro Shopping Technique",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Dragon Pipe",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gluttonous Centipede",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Screen Border",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Miracle Mallet",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Keystone of Endurance",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Moon of Madness",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Esteemed Authority",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Vampire Fang",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Underground Sun",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Item Season",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Heavy Bass Drum",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Psychokinesis",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spirit Power Sample Bottle",
+		"category": ["Ability Cards"],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Great Tengu's Barley Rice",
+		"category": ["Ability Cards"],
+		"useful": true
+	}
+]

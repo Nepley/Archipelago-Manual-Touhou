@@ -1,0 +1,65 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu - Summer| OR |Reimu - Spring| OR |Reimu - Autumn| OR |Reimu - Winter|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu - Summer| OR |Reimu - Spring| OR |Reimu - Autumn| OR |Reimu - Winter|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu - Summer| OR |Reimu - Spring| OR |Reimu - Autumn| OR |Reimu - Winter|"
+	},
+
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa - Summer| OR |Marisa - Spring| OR |Marisa - Autumn| OR |Marisa - Winter|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa - Summer| OR |Marisa - Spring| OR |Marisa - Autumn| OR |Marisa - Winter|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa - Summer| OR |Marisa - Spring| OR |Marisa - Autumn| OR |Marisa - Winter|"
+	},
+
+	"Cirno-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Cirno - Summer| OR |Cirno - Spring| OR |Cirno - Autumn| OR |Cirno - Winter|"
+	},
+	"Cirno-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Cirno - Summer| OR |Cirno - Spring| OR |Cirno - Autumn| OR |Cirno - Winter|"
+	},
+	"Cirno-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Cirno - Summer| OR |Cirno - Spring| OR |Cirno - Autumn| OR |Cirno - Winter|"
+	},
+
+	"Aya-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Aya - Summer| OR |Aya - Spring| OR |Aya - Autumn| OR |Aya - Winter|"
+	},
+	"Aya-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Aya - Summer| OR |Aya - Spring| OR |Aya - Autumn| OR |Aya - Winter|"
+	},
+	"Aya-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Aya - Summer| OR |Aya - Spring| OR |Aya - Autumn| OR |Aya - Winter|"
+	}
+}

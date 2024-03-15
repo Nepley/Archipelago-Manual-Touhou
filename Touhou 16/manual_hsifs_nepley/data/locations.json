@@ -1,0 +1,404 @@
+[
+	{
+		"name": "[Reimu] Eternity - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Eternity Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Nemuno - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Nemuno - Bomb Drop",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Nemuno Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Lily Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Lily - 1up Drop",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Aunn Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Mai - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Mai - Bomb drop",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Narumi Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Satono - MidBoss",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Satono - 1up Drop",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Mai/Satono Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Okina Reached",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Okina Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Marisa] Eternity - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Eternity Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Nemuno - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Nemuno - Bomb Drop",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Nemuno Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Lily Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Lily - 1up Drop",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Aunn Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Mai - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Mai - Bomb drop",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Narumi Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Satono - MidBoss",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Satono - 1up Drop",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Mai/Satono Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Okina Reached",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Okina Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Cirno] Eternity - MidBoss",
+		"region": "Cirno-Early-Game",
+		"category": ["Cirno - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Cirno] Eternity Defeated",
+		"region": "Cirno-Early-Game",
+		"category": ["Cirno - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Cirno] Nemuno - MidBoss",
+		"region": "Cirno-Early-Game",
+		"category": ["Cirno - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Cirno] Nemuno - Bomb Drop",
+		"region": "Cirno-Early-Game",
+		"category": ["Cirno - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Cirno] Nemuno Defeated",
+		"region": "Cirno-Early-Game",
+		"category": ["Cirno - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Cirno] Lily Defeated",
+		"region": "Cirno-Mid-Game",
+		"category": ["Cirno - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Cirno] Lily - 1up Drop",
+		"region": "Cirno-Mid-Game",
+		"category": ["Cirno - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Cirno] Aunn Defeated",
+		"region": "Cirno-Mid-Game",
+		"category": ["Cirno - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Cirno] Mai - MidBoss",
+		"region": "Cirno-Mid-Game",
+		"category": ["Cirno - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Cirno] Mai - Bomb drop",
+		"region": "Cirno-Mid-Game",
+		"category": ["Cirno - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Cirno] Narumi Defeated",
+		"region": "Cirno-Mid-Game",
+		"category": ["Cirno - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Cirno] Satono - MidBoss",
+		"region": "Cirno-End-Game",
+		"category": ["Cirno - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Cirno] Satono - 1up Drop",
+		"region": "Cirno-End-Game",
+		"category": ["Cirno - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Cirno] Mai/Satono Defeated",
+		"region": "Cirno-End-Game",
+		"category": ["Cirno - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Cirno] Okina Reached",
+		"region": "Cirno-End-Game",
+		"category": ["Cirno - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Cirno] Okina Defeated",
+		"region": "Cirno-End-Game",
+		"category": ["Cirno - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Aya] Eternity - MidBoss",
+		"region": "Aya-Early-Game",
+		"category": ["Aya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Aya] Eternity Defeated",
+		"region": "Aya-Early-Game",
+		"category": ["Aya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Aya] Nemuno - MidBoss",
+		"region": "Aya-Early-Game",
+		"category": ["Aya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Aya] Nemuno - Bomb Drop",
+		"region": "Aya-Early-Game",
+		"category": ["Aya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Aya] Nemuno Defeated",
+		"region": "Aya-Early-Game",
+		"category": ["Aya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Aya] Lily Defeated",
+		"region": "Aya-Mid-Game",
+		"category": ["Aya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Aya] Lily - 1up Drop",
+		"region": "Aya-Mid-Game",
+		"category": ["Aya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Aya] Aunn Defeated",
+		"region": "Aya-Mid-Game",
+		"category": ["Aya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Aya] Mai - MidBoss",
+		"region": "Aya-Mid-Game",
+		"category": ["Aya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Aya] Mai - Bomb drop",
+		"region": "Aya-Mid-Game",
+		"category": ["Aya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Aya] Narumi Defeated",
+		"region": "Aya-Mid-Game",
+		"category": ["Aya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Aya] Satono - MidBoss",
+		"region": "Aya-End-Game",
+		"category": ["Aya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Aya] Satono - 1up Drop",
+		"region": "Aya-End-Game",
+		"category": ["Aya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Aya] Mai/Satono Defeated",
+		"region": "Aya-End-Game",
+		"category": ["Aya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Aya] Okina Reached",
+		"region": "Aya-End-Game",
+		"category": ["Aya - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Aya] Okina Defeated",
+		"region": "Aya-End-Game",
+		"category": ["Aya - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:4|"
+	}
+]

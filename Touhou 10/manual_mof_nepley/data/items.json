@@ -1,0 +1,92 @@
+[
+	{
+		"count":8,
+		"name": "Progressive Life",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":3,
+		"name": "Lower Difficulty",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":5,
+		"name": "1 Power Point",
+		"category": ["Progression Items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Reimu A - Homing Type",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reimu B - Forward Focus Type",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reimu C - Sealing Type",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa A - High Power Type",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa B - Piercing Type",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa C - Magician Type",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 2",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 3",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 5",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 6",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Ending",
+		"category": ["Ending"],
+		"progression": true
+	}
+]

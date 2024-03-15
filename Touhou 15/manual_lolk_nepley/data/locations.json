@@ -1,0 +1,404 @@
+[
+	{
+		"name": "[Reimu] Seiran - MidBoss 1",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Seiran - MidBoss 2",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Seiran Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Ringo - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Ringo - Bomb Drop",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Ringo Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Doremy - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Doremy - Bomb Drop",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Doremy Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Sagume - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Sagume - Bomb Drop",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Sagume Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Clownpiece Reached",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Clownpiece Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Junko Reached",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Junko Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Marisa] Seiran - MidBoss 1",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Seiran - MidBoss 2",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Seiran Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Ringo - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Ringo - Bomb Drop",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Ringo Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Doremy - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Doremy - Bomb Drop",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Doremy Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Sagume - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Sagume - Bomb Drop",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Sagume Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Clownpiece Reached",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Clownpiece Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Junko Reached",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Junko Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Sanae] Seiran - MidBoss 1",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Seiran - MidBoss 2",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Seiran Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sanae] Ringo - MidBoss",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Ringo - Bomb Drop",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Ringo Defeated",
+		"region": "Sanae-Early-Game",
+		"category": ["Sanae - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sanae] Doremy - MidBoss",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Doremy - Bomb Drop",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Doremy Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sanae] Sagume - MidBoss",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Sagume - Bomb Drop",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Sagume Defeated",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sanae] Clownpiece Reached",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Clownpiece Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sanae] Junko Reached",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sanae] Junko Defeated",
+		"region": "Sanae-End-Game",
+		"category": ["Sanae - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Reisen] Seiran - MidBoss 1",
+		"region": "Reisen-Early-Game",
+		"category": ["Reisen - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reisen] Seiran - MidBoss 2",
+		"region": "Reisen-Early-Game",
+		"category": ["Reisen - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reisen] Seiran Defeated",
+		"region": "Reisen-Early-Game",
+		"category": ["Reisen - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reisen] Ringo - MidBoss",
+		"region": "Reisen-Early-Game",
+		"category": ["Reisen - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reisen] Ringo - Bomb Drop",
+		"region": "Reisen-Early-Game",
+		"category": ["Reisen - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reisen] Ringo Defeated",
+		"region": "Reisen-Early-Game",
+		"category": ["Reisen - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reisen] Doremy - MidBoss",
+		"region": "Reisen-Mid-Game",
+		"category": ["Reisen - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reisen] Doremy - Bomb Drop",
+		"region": "Reisen-Mid-Game",
+		"category": ["Reisen - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reisen] Doremy Defeated",
+		"region": "Reisen-Mid-Game",
+		"category": ["Reisen - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reisen] Sagume - MidBoss",
+		"region": "Reisen-Mid-Game",
+		"category": ["Reisen - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reisen] Sagume - Bomb Drop",
+		"region": "Reisen-Mid-Game",
+		"category": ["Reisen - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reisen] Sagume Defeated",
+		"region": "Reisen-Mid-Game",
+		"category": ["Reisen - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reisen] Clownpiece Reached",
+		"region": "Reisen-End-Game",
+		"category": ["Reisen - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reisen] Clownpiece Defeated",
+		"region": "Reisen-End-Game",
+		"category": ["Reisen - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reisen] Junko Reached",
+		"region": "Reisen-End-Game",
+		"category": ["Reisen - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reisen] Junko Defeated",
+		"region": "Reisen-End-Game",
+		"category": ["Reisen - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:4|"
+	}
+]

@@ -1,0 +1,47 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Needle| OR |Reimu B - Homing|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Needle| OR |Reimu B - Homing|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Needle| OR |Reimu B - Homing|"
+	},
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Laser| OR |Marisa B - Wave|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Laser| OR |Marisa B - Wave|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Laser| OR |Marisa B - Wave|"
+	},
+	"Sanae-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sanae A - Snake| OR |Sanae B - Frog|"
+	},
+	"Sanae-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sanae A - Snake| OR |Sanae B - Frog|"
+	},
+	"Sanae-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sanae A - Snake| OR |Sanae B - Frog|"
+	}
+}

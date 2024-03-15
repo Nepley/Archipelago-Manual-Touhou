@@ -1,0 +1,49 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Purification Rod| OR |Reimu B - No Bewitched Weapon|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Purification Rod| OR |Reimu B - No Bewitched Weapon|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Purification Rod| OR |Reimu B - No Bewitched Weapon|"
+	},
+
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Mini-Hakkero| OR |Marisa B - No Bewitched Weapon|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Mini-Hakkero| OR |Marisa B - No Bewitched Weapon|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Mini-Hakkero| OR |Marisa B - No Bewitched Weapon|"
+	},
+
+	"Sakuya-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya A - Silver Blade| OR |Sakuya B - No Bewitched Weapon|"
+	},
+	"Sakuya-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya A - Silver Blade| OR |Sakuya B - No Bewitched Weapon|"
+	},
+	"Sakuya-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya A - Silver Blade| OR |Sakuya B - No Bewitched Weapon|"
+	}
+}

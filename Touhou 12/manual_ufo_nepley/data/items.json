@@ -1,0 +1,98 @@
+[
+	{
+		"count":8,
+		"name": "Progressive Life",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":8,
+		"name": "Progressive Bomb",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":3,
+		"name": "Lower Difficulty",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":4,
+		"name": "1 Power Point",
+		"category": ["Progression Items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Reimu A - Needle",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Reimu B - Homing",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa A - Laser",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa B - Wave",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sanae A - Snake",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sanae B - Frog",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 2",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 3",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 5",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 6",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count": 3,
+		"name": "Ending",
+		"category": ["Ending"],
+		"progression": true
+	}
+]

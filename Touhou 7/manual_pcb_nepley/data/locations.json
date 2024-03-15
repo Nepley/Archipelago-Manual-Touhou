@@ -1,0 +1,317 @@
+[
+	{
+		"name": "[Reimu] Cirno Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Letty Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Chen - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Chen - Bomb",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Chen Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Alice - 1-UP",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Alice - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Alice Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Lily Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Lily - Bomb",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Prismriver Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Youmu - 1-UP",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Youmu - MidBoss 1",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Youmu Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Youmu - Bomb",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Youmu - MidBoss 2",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Yuyuko Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Marisa] Cirno Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Letty Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Chen - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Chen - Bomb",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Chen Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Alice - 1-UP",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Alice - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Alice Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Lily Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Lily - Bomb",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Prismriver Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Youmu - 1-UP",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Youmu - MidBoss 1",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Youmu Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Youmu - Bomb",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Youmu - MidBoss 2",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Yuyuko Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "[Sakuya] Cirno Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sakuya] Letty Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sakuya] Chen - MidBoss",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Chen - Bomb",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Chen Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Alice - 1-UP",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Alice - MidBoss",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Alice Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Lily Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Lily - Bomb",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Prismriver Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Youmu - 1-UP",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Youmu - MidBoss 1",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Youmu Defeated",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Youmu - Bomb",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sakuya] Youmu - MidBoss 2",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sakuya] Yuyuko Defeated",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:3|"
+	}
+]

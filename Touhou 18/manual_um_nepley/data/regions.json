@@ -1,0 +1,83 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu|"
+	},
+
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa|"
+	},
+
+	"Sanae-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sanae|"
+	},
+	"Sanae-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sanae|"
+	},
+	"Sanae-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sanae|"
+	},
+
+	"Sakuya-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya|"
+	},
+	"Sakuya-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya|"
+	},
+	"Sakuya-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya|"
+	},
+
+
+	"Shop-Early-Game":
+	{
+		"connects_to": []
+	},
+	"Shop-Mid-Game":
+	{
+		"connects_to": []
+	},
+	"Shop-End-Game":
+	{
+		"connects_to": []
+	},
+	"Shop-Item":
+	{
+		"connects_to": []
+	}
+}

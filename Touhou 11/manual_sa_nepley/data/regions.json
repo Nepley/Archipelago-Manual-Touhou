@@ -1,0 +1,32 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Yukari Yakumo| OR |Reimu B - Suika Ibuki| OR |Reimu C - Aya Shameimaru|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Yukari Yakumo| OR |Reimu B - Suika Ibuki| OR |Reimu C - Aya Shameimaru|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Yukari Yakumo| OR |Reimu B - Suika Ibuki| OR |Reimu C - Aya Shameimaru|"
+	},
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Alice Margatroid| OR |Marisa B - Patchouli Knowledge| OR |Marisa C - Nitori Kawashiro|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Alice Margatroid| OR |Marisa B - Patchouli Knowledge| OR |Marisa C - Nitori Kawashiro|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Alice Margatroid| OR |Marisa B - Patchouli Knowledge| OR |Marisa C - Nitori Kawashiro|"
+	}
+}

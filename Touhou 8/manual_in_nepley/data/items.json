@@ -1,0 +1,146 @@
+[
+	{
+		"count":8,
+		"name": "Progressive Life",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":8,
+		"name": "Progressive Bomb",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":3,
+		"name": "Lower Difficulty",
+		"category": ["Progression Items"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":5,
+		"name": "25 Power Point",
+		"category": ["Progression Items"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Reimu",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yukari",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Illusionary Barrier Team",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Marisa",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alice",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Aria of Forbidden Magic Team",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sakuya",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Remilia",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Visionary Scarlet Devil Team",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Youmu",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yuyuko",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Netherworld Dwellers's Team",
+		"category": ["Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 2",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 3",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4A",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4B",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 5",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 6A",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 6B",
+		"category": ["Stages"],
+		"progression": true
+	},
+	{
+		"count": "8",
+		"name": "Ending",
+		"category": ["Ending"],
+		"progression": true
+	}
+]

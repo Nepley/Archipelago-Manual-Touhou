@@ -1,0 +1,32 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Homing Amulet| OR |Reimu B - Persuasion Needle|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Homing Amulet| OR |Reimu B - Persuasion Needle|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Homing Amulet| OR |Reimu B - Persuasion Needle|"
+	},
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Magic Missile| OR |Marisa B - Illusion Laser|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Magic Missile| OR |Marisa B - Illusion Laser|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Magic Missile| OR |Marisa B - Illusion Laser|"
+	}
+}

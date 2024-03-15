@@ -1,0 +1,47 @@
+{
+	"Reimu-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Spirit Sign| OR |Reimu B - Dream Sign|"
+	},
+	"Reimu-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Spirit Sign| OR |Reimu B - Dream Sign|"
+	},
+	"Reimu-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Reimu A - Spirit Sign| OR |Reimu B - Dream Sign|"
+	},
+	"Marisa-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Magic Sign| OR |Marisa B - Love Sign|"
+	},
+	"Marisa-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Magic Sign| OR |Marisa B - Love Sign|"
+	},
+	"Marisa-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Marisa A - Magic Sign| OR |Marisa B - Love Sign|"
+	},
+	"Sakuya-Early-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya A - Illusion Sign|"
+	},
+	"Sakuya-Mid-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya A - Illusion Sign|"
+	},
+	"Sakuya-End-Game":
+	{
+		"connects_to": [],
+		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya A - Illusion Sign|"
+	}
+}

@@ -1,0 +1,233 @@
+[
+	{
+		"name": "[Reimu] Cirno Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Wakasagihime Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Reimu] Sekibanki - MidBoss",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Sekibanki Defeated",
+		"region": "Reimu-Early-Game",
+		"category": ["Reimu - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Reimu] Kagerou - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Kagerou Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Reimu] Benben/Yatsuhashi - MidBoss",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Benben/Yatsuhashi Defeated",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Reimu] Seija - MidBoss 1",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Seija Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Reimu] Seija - MidBoss 2",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Reimu] Sukuna Defeated",
+		"region": "Reimu-End-Game",
+		"category": ["Reimu - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Marisa] Cirno Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Wakasagihime Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Marisa] Sekibanki - MidBoss",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Sekibanki Defeated",
+		"region": "Marisa-Early-Game",
+		"category": ["Marisa - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Marisa] Kagerou - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Kagerou Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Benben/Yatsuhashi - MidBoss",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Benben/Yatsuhashi Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Marisa] Seija - MidBoss 1",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Seija Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Marisa] Seija - MidBoss 2",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Marisa] Sukuna Defeated",
+		"region": "Marisa-End-Game",
+		"category": ["Marisa - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "[Sakuya] Cirno Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sakuya] Wakasagihime Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 1"],
+		"requires": []
+	},
+	{
+		"name": "[Sakuya] Sekibanki - MidBoss",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Sekibanki Defeated",
+		"region": "Sakuya-Early-Game",
+		"category": ["Sakuya - Stage 2"],
+		"requires": "|Stage 2|"
+	},
+	{
+		"name": "[Sakuya] Kagerou - MidBoss",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Kagerou Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Sakuya] Benben/Yatsuhashi - MidBoss",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Benben/Yatsuhashi Defeated",
+		"region": "Sakuya-Mid-Game",
+		"category": ["Sakuya - Stage 4"],
+		"requires": "|Stage 4|"
+	},
+	{
+		"name": "[Sakuya] Seija - MidBoss 1",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Seija Defeated",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Sakuya] Seija - MidBoss 2",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|"
+	},
+	{
+		"name": "[Sakuya] Sukuna Defeated",
+		"region": "Sakuya-End-Game",
+		"category": ["Sakuya - Stage 6"],
+		"requires": "|Stage 6|",
+		"place_item": ["Ending"]
+	},
+
+
+	{
+		"name": "Game Beaten",
+		"victory": true,
+		"category": ["Victory"],
+		"requires": "|Ending:3|"
+	}
+]

@@ -1,0 +1,12 @@
+{
+	"game": "hsifs",
+	"creator": "Nepley",
+	"filler_item_name": "0.01 Power Point",
+	"starting_items":
+	[
+		{
+			"item_categories": ["Characters"],
+			"random": 1
+		}
+	]
+}

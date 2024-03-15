@@ -1,0 +1,12 @@
+{
+	"game": "eosd",
+	"creator": "Nepley",
+	"filler_item_name": "1 Power Point",
+	"starting_items":
+	[
+		{
+			"item_categories": ["Characters"],
+			"random": 1
+		}
+	]
+}
