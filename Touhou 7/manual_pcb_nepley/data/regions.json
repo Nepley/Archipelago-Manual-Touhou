@@ -32,16 +32,16 @@
 	"Sakuya-Early-Game":
 	{
 		"connects_to": [],
-		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya A - Illusion Sign|"
+		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya B - Time Sign|"
 	},
 	"Sakuya-Mid-Game":
 	{
 		"connects_to": [],
-		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya A - Illusion Sign|"
+		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya B - Time Sign|"
 	},
 	"Sakuya-End-Game":
 	{
 		"connects_to": [],
-		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya A - Illusion Sign|"
+		"requires": "|Sakuya A - Illusion Sign| OR |Sakuya B - Time Sign|"
 	}
 }
