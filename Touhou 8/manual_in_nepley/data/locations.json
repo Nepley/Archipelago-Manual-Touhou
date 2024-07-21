@@ -78,6 +78,12 @@
 		"requires": "|Stage 5|"
 	},
 	{
+		"name": "[Border Team] Tewi - 1up",
+		"region": "Border-End-Game",
+		"category": ["Border Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
 		"name": "[Border Team] Reisen Defeated",
 		"region": "Border-End-Game",
 		"category": ["Border Team - Stage 5"],
@@ -180,6 +186,12 @@
 	},
 	{
 		"name": "[Magic Team] Tewi Defeated",
+		"region": "Magic-End-Game",
+		"category": ["Magic Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Magic Team] Tewi - 1up",
 		"region": "Magic-End-Game",
 		"category": ["Magic Team - Stage 5"],
 		"requires": "|Stage 5|"
@@ -292,6 +304,12 @@
 		"requires": "|Stage 5|"
 	},
 	{
+		"name": "[Scarlet Team] Tewi - 1up",
+		"region": "Scarlet-End-Game",
+		"category": ["Scarlet Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
 		"name": "[Scarlet Team] Reisen Defeated",
 		"region": "Scarlet-End-Game",
 		"category": ["Scarlet Team - Stage 5"],
@@ -394,6 +412,12 @@
 	},
 	{
 		"name": "[Nether Team] Tewi Defeated",
+		"region": "Nether-End-Game",
+		"category": ["Nether Team - Stage 5"],
+		"requires": "|Stage 5|"
+	},
+	{
+		"name": "[Nether Team] Tewi - 1up",
 		"region": "Nether-End-Game",
 		"category": ["Nether Team - Stage 5"],
 		"requires": "|Stage 5|"

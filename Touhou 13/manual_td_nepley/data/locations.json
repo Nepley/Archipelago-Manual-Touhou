@@ -30,6 +30,12 @@
 		"requires": "|Stage 3|"
 	},
 	{
+		"name": "[Reimu] Big Power",
+		"region": "Reimu-Mid-Game",
+		"category": ["Reimu - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
 		"name": "[Reimu] Yoshika Defeated",
 		"region": "Reimu-Mid-Game",
 		"category": ["Reimu - Stage 3"],
@@ -94,6 +100,12 @@
 	},
 	{
 		"name": "[Marisa] Kogasa Defeated",
+		"region": "Marisa-Mid-Game",
+		"category": ["Marisa - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
+		"name": "[Marisa] Big Power",
 		"region": "Marisa-Mid-Game",
 		"category": ["Marisa - Stage 3"],
 		"requires": "|Stage 3|"
@@ -168,6 +180,12 @@
 		"requires": "|Stage 3|"
 	},
 	{
+		"name": "[Sanae] Big Power",
+		"region": "Sanae-Mid-Game",
+		"category": ["Sanae - Stage 3"],
+		"requires": "|Stage 3|"
+	},
+	{
 		"name": "[Sanae] Yoshika Defeated",
 		"region": "Sanae-Mid-Game",
 		"category": ["Sanae - Stage 3"],
@@ -207,69 +225,69 @@
 
 
 	{
-		"name": "[You] Divine Spirit Defeated",
-		"region": "You-Early-Game",
-		"category": ["You - Stage 1"],
+		"name": "[Youmu] Divine Spirit Defeated",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 1"],
 		"requires": []
 	},
 	{
-		"name": "[You] Yuyuko Defeated",
-		"region": "You-Early-Game",
-		"category": ["You - Stage 1"],
+		"name": "[Youmu] Yuyuko Defeated",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 1"],
 		"requires": []
 	},
 	{
-		"name": "[You] Kyouko - MidBoss",
-		"region": "You-Early-Game",
-		"category": ["You - Stage 2"],
+		"name": "[Youmu] Kyoumuko - MidBoss",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 2"],
 		"requires": "|Stage 2|"
 	},
 	{
-		"name": "[You] Kyouko Defeated",
-		"region": "You-Early-Game",
-		"category": ["You - Stage 2"],
+		"name": "[Youmu] Kyoumuko Defeated",
+		"region": "Youmu-Early-Game",
+		"category": ["Youmu - Stage 2"],
 		"requires": "|Stage 2|"
 	},
 	{
-		"name": "[You] Kogasa Defeated",
-		"region": "You-Mid-Game",
-		"category": ["You - Stage 3"],
+		"name": "[Youmu] Kogasa Defeated",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 3"],
 		"requires": "|Stage 3|"
 	},
 	{
-		"name": "[You] Yoshika Defeated",
-		"region": "You-Mid-Game",
-		"category": ["You - Stage 3"],
+		"name": "[Youmu] Yoshika Defeated",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 3"],
 		"requires": "|Stage 3|"
 	},
 	{
-		"name": "[You] Seiga - MidBoss",
-		"region": "You-Mid-Game",
-		"category": ["You - Stage 4"],
+		"name": "[Youmu] Seiga - MidBoss",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 4"],
 		"requires": "|Stage 4|"
 	},
 	{
-		"name": "[You] Seiga Defeated",
-		"region": "You-Mid-Game",
-		"category": ["You - Stage 4"],
+		"name": "[Youmu] Seiga Defeated",
+		"region": "Youmu-Mid-Game",
+		"category": ["Youmu - Stage 4"],
 		"requires": "|Stage 4|"
 	},
 	{
-		"name": "[You] Tojiko - MidBoss",
-		"region": "You-End-Game",
-		"category": ["You - Stage 5"],
+		"name": "[Youmu] Tojiko - MidBoss",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 5"],
 		"requires": "|Stage 5|"
 	},
 	{
-		"name": "[You] Futo Defeated",
-		"region": "You-End-Game",
-		"category": ["You - Stage 5"],
+		"name": "[Youmu] Futo Defeated",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 5"],
 		"requires": "|Stage 5|"
 	},
 	{
-		"name": "[You] Miko Defeated",
-		"region": "You-End-Game",
-		"category": ["You - Stage 6"],
+		"name": "[Youmu] Miko Defeated",
+		"region": "Youmu-End-Game",
+		"category": ["Youmu - Stage 6"],
 		"requires": "|Stage 6|",
 		"place_item": ["Ending"]
 	},

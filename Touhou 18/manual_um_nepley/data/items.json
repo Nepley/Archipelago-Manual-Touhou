@@ -1,12 +1,12 @@
 [
 	{
-		"count":8,
+		"count":7,
 		"name": "Progressive Life",
 		"category": ["Progression Items"],
 		"progression_skip_balancing": true
 	},
 	{
-		"count":8,
+		"count":7,
 		"name": "Progressive Bomb",
 		"category": ["Progression Items"],
 		"progression_skip_balancing": true
@@ -18,7 +18,7 @@
 		"progression_skip_balancing": true
 	},
 	{
-		"count":4,
+		"count":3,
 		"name": "1 Power Point",
 		"category": ["Progression Items"],
 		"useful": true

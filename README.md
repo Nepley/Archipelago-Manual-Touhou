@@ -16,7 +16,7 @@ You will need [Thprac](https://github.com/touhouworldcup/thprac) in order to cho
 * Progressive Difficulty (Descending)
 * [Touhou 18] Ability Cards
 
-**Filler**: 1 or 0.01 Power Point
+**Filler**: 1, 0.01 or 0.05 Power Point depending on the game
 
 **Goal**: Beat the final boss X number of time (Where X is defined in the YAML and is 1 per character)
 
