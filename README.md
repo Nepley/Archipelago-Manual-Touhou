@@ -36,4 +36,3 @@ You will need [Thprac](https://github.com/touhouworldcup/thprac) in order to cho
 * You will need a save with all Ablilty Cards unlocked
 * It has a shop system, you unlock a random shop when finishing a stage and use the money you've got during the stage. 
 * You keep your money between stage, you can therefore farm it and buy items whenever you want
-* The price of the items are random. Ideally, I would like the items to be known before buying them but as far as I know, there is no method in Archipelago Manual to hint a group of location when you get another location
