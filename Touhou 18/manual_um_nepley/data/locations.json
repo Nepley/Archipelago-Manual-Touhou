@@ -303,35 +303,35 @@
 		"name": "Shop - Stage 1",
 		"region": "Shop-Early-Game",
 		"category": ["Shop"],
-		"place_item_category": ["Shop Access"]
+		"place_item": ["Shop A"]
 	},
 	{
 		"name": "Shop - Stage 2",
 		"region": "Shop-Early-Game",
 		"category": ["Shop"],
 		"requires": "|Stage 2|",
-		"place_item_category": ["Shop Access"]
+		"place_item": ["Shop B"]
 	},
 	{
 		"name": "Shop - Stage 3",
 		"region": "Shop-Mid-Game",
 		"category": ["Shop"],
 		"requires": "|Stage 3|",
-		"place_item_category": ["Shop Access"]
+		"place_item": ["Shop C"]
 	},
 	{
 		"name": "Shop - Stage 4",
 		"region": "Shop-Mid-Game",
 		"category": ["Shop"],
 		"requires": "|Stage 4|",
-		"place_item_category": ["Shop Access"]
+		"place_item": ["Shop D"]
 	},
 	{
 		"name": "Shop - Stage 5",
 		"region": "Shop-End-Game",
 		"category": ["Shop"],
 		"requires": "|Stage 5|",
-		"place_item_category": ["Shop Access"]
+		"place_item": ["Shop E"]
 	},
 
 
@@ -339,49 +339,57 @@
 		"name": "Shop A - Item 1 (50)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
 		"name": "Shop A - Item 2 (80)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
 		"name": "Shop A - Item 3 (90)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
 		"name": "Shop A - Item 4 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
 		"name": "Shop A - Item 5 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
 		"name": "Shop A - Item 6 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
-		"name": "Shop A - Item 7 (200)",
+		"name": "Shop A - Item 7 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 	{
-		"name": "Shop A - Item 8 (220)",
+		"name": "Shop A - Item 8 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop A"],
-		"requires": "|Shop A|"
+		"requires": "|Shop A|",
+		"prehint": true
 	},
 
 
@@ -389,49 +397,57 @@
 		"name": "Shop B - Item 1 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 2 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 3 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 4 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 5 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 6 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 7 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 	{
 		"name": "Shop B - Item 8 (200)",
 		"region": "Shop-Item",
 		"category": ["Shop B"],
-		"requires": "|Shop B|"
+		"requires": "|Shop B|",
+		"prehint": true
 	},
 
 
@@ -439,49 +455,57 @@
 		"name": "Shop C - Item 1 (50)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
 		"name": "Shop C - Item 2 (80)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
 		"name": "Shop C - Item 3 (80)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
 		"name": "Shop C - Item 4 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
 		"name": "Shop C - Item 5 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
-		"name": "Shop C - Item 6 (200)",
+		"name": "Shop C - Item 6 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
-		"name": "Shop C - Item 7 (300)",
+		"name": "Shop C - Item 7 (200)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 	{
-		"name": "Shop C - Item 8 (400)",
+		"name": "Shop C - Item 8 (300)",
 		"region": "Shop-Item",
 		"category": ["Shop C"],
-		"requires": "|Shop C|"
+		"requires": "|Shop C|",
+		"prehint": true
 	},
 
 
@@ -489,49 +513,57 @@
 		"name": "Shop D - Item 1 (90)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
 		"name": "Shop D - Item 2 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
 		"name": "Shop D - Item 3 (100)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
 		"name": "Shop D - Item 4 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
-		"name": "Shop D - Item 5 (250)",
+		"name": "Shop D - Item 5 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
-		"name": "Shop D - Item 6 (300)",
+		"name": "Shop D - Item 6 (200)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
-		"name": "Shop D - Item 7 (400)",
+		"name": "Shop D - Item 7 (300)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 	{
-		"name": "Shop D - Item 8 (450)",
+		"name": "Shop D - Item 8 (350)",
 		"region": "Shop-Item",
 		"category": ["Shop D"],
-		"requires": "|Shop D|"
+		"requires": "|Shop D|",
+		"prehint": true
 	},
 
 
@@ -539,49 +571,57 @@
 		"name": "Shop E - Item 1 (50)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
 		"name": "Shop E - Item 2 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
-		"name": "Shop E - Item 3 (225)",
+		"name": "Shop E - Item 3 (120)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
-		"name": "Shop E - Item 4 (240)",
+		"name": "Shop E - Item 4 (140)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
-		"name": "Shop E - Item 5 (250)",
+		"name": "Shop E - Item 5 (150)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
-		"name": "Shop E - Item 6 (320)",
+		"name": "Shop E - Item 6 (220)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
-		"name": "Shop E - Item 7 (350)",
+		"name": "Shop E - Item 7 (250)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 	{
-		"name": "Shop E - Item 8 (400)",
+		"name": "Shop E - Item 8 (300)",
 		"region": "Shop-Item",
 		"category": ["Shop E"],
-		"requires": "|Shop E|"
+		"requires": "|Shop E|",
+		"prehint": true
 	},
 
 
